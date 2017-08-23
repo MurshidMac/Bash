@@ -9,6 +9,10 @@
 # Type "echo $SHELL" without quotations
 
 # To check wether csh is installed
+
+# Install instruction for CSH and tcsh
+# sudo apt-get install csh tcsh -y
+
 # type csh
 # man csh
 # refer "https://wiki.ubuntu.com/ChangingShells" for basics
