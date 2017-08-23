@@ -8,4 +8,8 @@
 # To find the default shell (mainly BASH) 
 # Type "echo $SHELL" without quotations
 
+# To check wether csh is installed
+# type csh
+# man csh
+
 echo Hello Murshid        
