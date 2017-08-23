@@ -11,5 +11,6 @@
 # To check wether csh is installed
 # type csh
 # man csh
+# refer "https://wiki.ubuntu.com/ChangingShells" for basics
 
 echo Hello Murshid        
