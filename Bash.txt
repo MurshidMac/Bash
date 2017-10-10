@@ -1,0 +1,8 @@
+Learning Proper BASH (GNU Bourne again Shell)
+
+Fundementals of learning bash is the proper use of understanding it from the core, And i Like that a lot.
+What is bash?, what do i need it for?
+
+Before we start if you are reading this, whole credits of this article goes to my primary author and maintainer of a guide called bash academy by lhunath (Maarten Billemont).
+
+
