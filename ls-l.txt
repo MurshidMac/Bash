@@ -1,0 +1,6 @@
+total 4
+-rwxr-xr-x 1 Murshid Hassen 197609 123 Jan  2 23:23 bash.sh*
+-rw-r--r-- 1 Murshid Hassen 197609 377 Jan  2 23:23 Bash.txt
+-rw-r--r-- 1 Murshid Hassen 197609 623 Jan  2 23:23 intro.sh
+-rw-r--r-- 1 Murshid Hassen 197609   0 Jan  2 23:25 ls-l.txt
+-rw-r--r-- 1 Murshid Hassen 197609 262 Jan  2 23:23 test.sh
