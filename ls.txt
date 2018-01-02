@@ -1,0 +1,5 @@
+bash.sh*
+Bash.txt
+intro.sh
+ls.txt
+test.sh
