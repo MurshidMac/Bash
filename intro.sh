@@ -17,4 +17,13 @@
 # man csh
 # refer "https://wiki.ubuntu.com/ChangingShells" for basics
 
-echo Hello Murshid        
+# cat,tac,mv.chmod,rev,cp,mkdir, rmdir,chattr
+
+echo Hello Murshid
+echo [cat, tac] operation
+
+echo cat is used to combine two or more files in same types
+
+
+
+
