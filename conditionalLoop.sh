@@ -2,13 +2,18 @@
 
 # This script will open 4 windows of bash terminal
 
-$i="0"
+i=15
 
-while [$i -lt 4]
-do
-	i=$[ $i+1]
-	echo $i
-done
+if(($i**2>100))
+then
+	((i2=$number**2))
+	echo "Square of $i is $i2"
+
+fi
+
+
+
+
 
 
 
