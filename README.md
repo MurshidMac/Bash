@@ -15,6 +15,14 @@ Type ``Bash.exe`` This will get you to Bash in windows.
 This is copy is provided with no warrenty. All modifications are accepted.
 This is licensed under GPL v3. :)
 
+References taken from Bash and GNU Bash documentation. Include copies of PDFs 
+under documentation directory
+
+More contents will be added as per need. 
+
+Contents 
+	- Basics
+	- scripts
 
 
 
